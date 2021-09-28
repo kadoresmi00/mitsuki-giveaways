@@ -1,0 +1,2 @@
+<h1>Selamlar 👋</h1>
+Aylar önce yaptığım ve biraz kullandıktan sonra kullanıma kapattığım discord çekiliş botumun alt yapısını paylaşmak istiyorum hazır modül kullanılarak yapılmış kolay bir bot verilerini jsona kaydediliyor ama isterseniz mongolu ve gelişmiş bir şekilde olanınıda paylaşırım gizlideydi public yapmak istedim teşekkürler hatalar olursa info@kado.codes den ve instagramdan @kadoresmi00 dan benle iletişime geçebilirsiniz <3
